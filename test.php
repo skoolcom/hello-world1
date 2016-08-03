@@ -1,4 +1,4 @@
 <html>
   <header></header>
-  <title>Hi</title>
+  <title>Hello Codeigniter</title>
 </html>
